@@ -59,7 +59,7 @@ Alert.alert('Something went wrong')
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Post Request Sending</Text>
+      <Text style={styles.title}>Post Request Sendingthrough payload</Text>
 
 
 
